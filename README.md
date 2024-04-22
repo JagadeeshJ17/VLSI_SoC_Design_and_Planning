@@ -1,3 +1,3 @@
 # VLSI_SoC_Design_and_Planning
-## THEORY
-## LAB
+## Get familiar to open-source EDA tools
+### OpenLANE Directory Structure 
