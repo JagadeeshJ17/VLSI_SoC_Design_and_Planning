@@ -21,8 +21,17 @@ less config.tcl
 less sky130A_sky130_fd_sc_hd_config.tcl
 ```
 
-
 ### Review files after design prep and run synthesis
+![image](https://github.com/JagadeeshJ17/VLSI_SoC_Design_and_Planning/assets/159161730/5655c0cb-a049-4eaa-ab75-8429ffe4680f)
+
+![image](https://github.com/JagadeeshJ17/VLSI_SoC_Design_and_Planning/assets/159161730/65194bc3-9d68-4249-aa56-4a703d0e7191)
+```bash
+cd synthesis
+cd results
+cd reports
+```
+
+
 
 ### OpenLANE Project Git link Description
 
